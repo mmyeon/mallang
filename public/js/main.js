@@ -1,4 +1,4 @@
 //페이지 이동
 function moveToMain() {
-  location.assign("second.html");
+  location.assign("main.html");
 }
