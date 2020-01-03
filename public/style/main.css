@@ -17,6 +17,7 @@ body {
   background: url(https://media.giphy.com/media/eNB4P10WYNGcaURldo/giphy.gif)
     no-repeat center center;
   background-size: cover;
+  cursor: pointer;
 }
 
 #date {
