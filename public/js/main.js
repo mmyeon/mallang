@@ -1,4 +1,4 @@
 //페이지 이동
-function myFunction() {
+function moveToMain() {
   location.assign("second.html");
 }
