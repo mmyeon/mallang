@@ -55,9 +55,11 @@ li {
   border-radius: 50px;
 }
 
+/* TODO: 모바일 대응 추가 */
+
 li a:hover {
   color: azure;
-  font-size: 20px;
+  font-size: 19px;
 }
 
 /* text-banner */
