@@ -9,4 +9,53 @@
 html,
 body {
   font-family: "NIXGONM-Vb";
+  margin: 0;
+}
+
+.navbar-container {
+  background: black;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-logo {
+  margin-left: 20px;
+}
+
+.nav-list {
+  margin-right: 120px;
+}
+
+a {
+  text-decoration: none;
+  color: #24252a;
+}
+
+ul {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+  font-size: 19px;
+  list-style: none;
+}
+
+li {
+  width: 60px;
+  height: 39px;
+  line-height: 2;
+  text-align: center;
+  background: #119ed2;
+  cursor: pointer;
+  margin-right: 20px;
+  padding: 0 20px;
+  opacity: 0.9;
+  border-radius: 50px;
+}
+
+li a:hover {
+  color: azure;
+  font-size: 20px;
 }
