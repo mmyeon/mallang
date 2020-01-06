@@ -57,6 +57,17 @@ li {
 
 /* TODO: 모바일 대응 추가 */
 
+@media screen and (max-width: 768px) {
+  body {
+    background: black;
+  }
+
+  #logo {
+    width: 7em;
+    height: 4em;
+  }
+}
+
 li a:hover {
   color: azure;
   font-size: 19px;
