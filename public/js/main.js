@@ -13,3 +13,5 @@ var Difference_In_Days =
   Math.floor(Difference_In_Time / (1000 * 3600 * 24)) + 1;
 
 document.getElementById("js_date").innerHTML = Difference_In_Days;
+
+/* TODO: 함께 한 날짜 카운트로 보이기. 0 ~ 현재까지*/
