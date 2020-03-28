@@ -8,8 +8,6 @@ firebase-debug.log*
 
 .DS_Store
 
-# Firebase cache
-.firebase/
 
 # Firebase config
 
